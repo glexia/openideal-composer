@@ -11,7 +11,7 @@
         "drupal/core-project-message": "^8.8",
         "drupal/core-recommended": "^8.8",
         "drupal/core": "^8.8",
-        "drupal/realname": "1.0",
+        "drupal/realname": "^1.0",
         "drupal/rules": "3.x-dev#7d1833f",
         "drush/drush": "^10",
         "linnovate/openideal": "^3.0",
